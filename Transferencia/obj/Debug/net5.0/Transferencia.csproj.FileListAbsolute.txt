@@ -1,0 +1,16 @@
+C:\Mulekolandia Educação\BootCamp\dotnetDIO\ContaPessoal\Transferencia\obj\Debug\net5.0\Transferencia.csprojAssemblyReference.cache
+C:\Mulekolandia Educação\BootCamp\dotnetDIO\ContaPessoal\Transferencia\obj\Debug\net5.0\Transferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mulekolandia Educação\BootCamp\dotnetDIO\ContaPessoal\Transferencia\obj\Debug\net5.0\Transferencia.AssemblyInfoInputs.cache
+C:\Mulekolandia Educação\BootCamp\dotnetDIO\ContaPessoal\Transferencia\obj\Debug\net5.0\Transferencia.AssemblyInfo.cs
+C:\Mulekolandia Educação\BootCamp\dotnetDIO\ContaPessoal\Transferencia\obj\Debug\net5.0\Transferencia.csproj.CoreCompileInputs.cache
+C:\Mulekolandia Educação\BootCamp\dotnetDIO\ContaPessoal\Transferencia\bin\Debug\net5.0\Transferencia.exe
+C:\Mulekolandia Educação\BootCamp\dotnetDIO\ContaPessoal\Transferencia\bin\Debug\net5.0\Transferencia.deps.json
+C:\Mulekolandia Educação\BootCamp\dotnetDIO\ContaPessoal\Transferencia\bin\Debug\net5.0\Transferencia.runtimeconfig.json
+C:\Mulekolandia Educação\BootCamp\dotnetDIO\ContaPessoal\Transferencia\bin\Debug\net5.0\Transferencia.runtimeconfig.dev.json
+C:\Mulekolandia Educação\BootCamp\dotnetDIO\ContaPessoal\Transferencia\bin\Debug\net5.0\Transferencia.dll
+C:\Mulekolandia Educação\BootCamp\dotnetDIO\ContaPessoal\Transferencia\bin\Debug\net5.0\ref\Transferencia.dll
+C:\Mulekolandia Educação\BootCamp\dotnetDIO\ContaPessoal\Transferencia\bin\Debug\net5.0\Transferencia.pdb
+C:\Mulekolandia Educação\BootCamp\dotnetDIO\ContaPessoal\Transferencia\obj\Debug\net5.0\Transferencia.dll
+C:\Mulekolandia Educação\BootCamp\dotnetDIO\ContaPessoal\Transferencia\obj\Debug\net5.0\ref\Transferencia.dll
+C:\Mulekolandia Educação\BootCamp\dotnetDIO\ContaPessoal\Transferencia\obj\Debug\net5.0\Transferencia.pdb
+C:\Mulekolandia Educação\BootCamp\dotnetDIO\ContaPessoal\Transferencia\obj\Debug\net5.0\Transferencia.genruntimeconfig.cache
